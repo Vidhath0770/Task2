@@ -1,3 +1,4 @@
+/* Main Code */
 function changeStar(type) {
     const star = document.getElementById("star");
 
